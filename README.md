@@ -1,6 +1,13 @@
-# project_surl
+# PROJECT_SURL created by ssysm
 
 A simple URL shortener that can be install on any web server support mysql and php
+
+----------------------------------------
+
+# Try it before you install
+
+Try it out at http://theeditor.studio
+
 
 -----------------------------------------
 # Usage
@@ -19,6 +26,28 @@ A simple URL shortener that can be install on any web server support mysql and p
 
 # Know Issue
 
-1.file ".htaccess" might only work with Apache web server.
-wesdf
-2sdsdsdsdaasdhasdbh
+1.File ".htaccess" might only work with Apache web server.
+
+2.SEO issue need to be solve.
+
+3.It might have a chance to generate same short url.
+
+--------------------------------------------
+
+# Extra Component Used
+
+SweetAlert -> https://github.com/t4t5/sweetalert
+
+--------------------------------------------
+
+# To-Do List 
+
+1.Solve Know Issue
+
+2.Make a installer
+
+3.Add support for admin panel
+
+---------------------------------------------
+
+# Made by ssysm for TheEditorStudio
