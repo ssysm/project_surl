@@ -52,6 +52,10 @@ SweetAlert -> https://github.com/t4t5/sweetalert
 
 3.Add support for admin panel
 
+4.JavaScript? NodeJS?
+
+5.Desgin UI
+
 ---------------------------------------------
 
 # Made by ssysm for TheEditorStudio
