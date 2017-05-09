@@ -1,3 +1,7 @@
+[中文请戳这里](https://github.com/ssysm/project_surl/blob/master/README_CN.md)
+
+[Click here for English](https://github.com/ssysm/project_surl/blob/master/README_CN.md)
+
 # PROJECT_SURL created by ssysm
 
 A simple URL shortener that can be install on any web server support mysql and php
