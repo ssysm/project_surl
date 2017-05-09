@@ -52,6 +52,10 @@ SweetAlert -> https://github.com/t4t5/sweetalert
 
 3.制作一个管理界面
 
+4.支持JavaScript? NodeJS?
+
+5.重新设计UI
+
 ---------------------------------------------
 
 # Made by ssysm for TheEditorStudio
