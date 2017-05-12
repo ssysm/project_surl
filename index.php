@@ -7,6 +7,7 @@ include_once 'generate.php';
 <head>
 	<title>PROJECT_SURL - Made By TheEditorSdtuio</title>
 	<script src="frontend/dist/sweetalert.min.js"></script>
+	<script type="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <link rel="stylesheet" type="text/css" href="frontend/dist/sweetalert.css">
 </head>
 <body>
@@ -26,7 +27,7 @@ echo $msg;
 }
 ?>
 <hr />
-<h3>V1.0 Made by TheEditorSdtuio</h3>
+<h3>V1.1 Made by TheEditorSdtuio</h3>
 <h3>Under MIT LICENSE</h3>
 </body>
 </html>

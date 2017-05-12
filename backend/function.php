@@ -13,7 +13,7 @@ function surl_main_redirect($conn,$surl_domain){
 		$surl = $_GET['surl'];
 		$surl = mysqli_real_escape_string($conn,$surl);
 		$sql = "SELECT * FROM url WHERE surl = '$surl'";
-		 $result = $conn->query($sql) or die($conn->error);
+		$result = $conn->query($sql) or die($conn->error);
 		$row = $result->fetch_assoc();
 		$redirect_url = $row['ourl'];
 		$surl_pre = $row['surl'];
@@ -21,7 +21,7 @@ function surl_main_redirect($conn,$surl_domain){
       	header("Location:".$redirect_url."");
     	}
     	else{
-    		header("Location:404.html");
+    		header("Location:/404.html");
     	}
 	}
 }
