@@ -1,3 +1,0 @@
-Options +FollowSymlinks
-RewriteEngine on
-RewriteRule ^([0-9a-zA-Z]+)$ main.php?surl=$1 [L]
