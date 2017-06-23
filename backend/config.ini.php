@@ -1,9 +1,9 @@
 <?php
-$surl_domain="YOUR DOMAIN";
-$servername = "YOUR DATABASE HOST";
-$username = "YOUR DTABASE USERNAME";
-$password = "YOUR DATABASE PASSWORD";
-$dbname = "YOUR DATABASE NAME";
+$surl_domain= $_SERVER['HTTP_HOST'];
+$servername = "YOUR MYSQL HOST";
+$username = "YOUR MYSQL USERNAME";
+$password = "YOUR MYSQL PASSWORD";
+$dbname = "project_surl";
 // Create connection
 $conn = mysqli_connect($servername, $username, $password,$dbname);
 

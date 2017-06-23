@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /backend/
+Disallow: /frontend/
+Disallow: /admin/
+Disallow: /account/

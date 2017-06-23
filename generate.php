@@ -1,6 +1,9 @@
 <?php
+//引用数据库链接文件
 include_once('backend/config.ini.php');
+//和函数文件
 include_once('backend/function.php');
+//如果URL已被发送
 if(isset($_POST["lurl"])){
 $lurl = $_POST["lurl"];
 $lurl = mysqli_real_escape_string($conn,$lurl);
