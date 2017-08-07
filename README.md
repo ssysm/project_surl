@@ -34,6 +34,8 @@ Try it out at http://theeditor.studio
 
 2.SEO issue need to be solve.
 
+3.It might have a chance to generate same short url.
+
 --------------------------------------------
 
 # Extra Component Used
