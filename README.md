@@ -6,6 +6,8 @@
 
 A simple URL shortener that can be install on any web server support mysql and php
 
+If you need one for Node&MongoDB -> [Here](https://github.com/ssysm/project_surl-nodejs)
+
 ----------------------------------------
 
 # Try it before you install
